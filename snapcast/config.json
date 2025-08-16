@@ -60,5 +60,5 @@
     }
   },
   "host_network": true,
-  "image": "evthefuture/hassio-addon-snapcast-{arch}"
+  "image": "BeePerNet/hassio-addon-snapcast-{arch}"
 }
