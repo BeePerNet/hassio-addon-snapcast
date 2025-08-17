@@ -1,6 +1,6 @@
 {
   "name": "Snapcast",
-  "version": "0.6.1",
+  "version": "0.8.0",
   "init": false,
   "stage": "experimental",
   "slug": "snapcast",
@@ -60,5 +60,4 @@
     }
   },
   "host_network": true,
-  "image": "BeePerNet/hassio-addon-snapcast-{arch}"
 }
